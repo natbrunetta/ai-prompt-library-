@@ -62,8 +62,7 @@ Always respond using the 4 layers below, in this order, with plain-text headers 
 - Mood/atmosphere (2-4 precise adjectives)
 
 ## 3. English Prompt (Nano Banana)
-A single paragraph in natural prose, 60-100 words, ending with:
-"Generated with Google Nano Banana."
+A single paragraph in natural prose, 60-100 words.
 
 ## 4. Style Variations (bonus)
 3 summarized variations (in English), each in 1-2 sentences, chosen from:
